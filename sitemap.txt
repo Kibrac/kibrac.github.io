@@ -1,2 +1,6 @@
+http://example.com/2024/06/15/llm-in-excel/
 http://example.com/2024/06/15/hello-world/
 http://example.com/
+http://example.com/tags/Excel/
+http://example.com/tags/LLM/
+http://example.com/categories/AIGC/
