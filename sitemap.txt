@@ -1,6 +1,9 @@
+http://example.com/2024/06/15/pdf-batch-extraction/
 http://example.com/2024/06/15/llm-in-excel/
 http://example.com/2024/06/15/hello-world/
 http://example.com/
 http://example.com/tags/Excel/
 http://example.com/tags/LLM/
+http://example.com/tags/%E6%89%B9%E9%87%8F%E5%A4%84%E7%90%86/
 http://example.com/categories/AIGC/
+http://example.com/categories/Python/
