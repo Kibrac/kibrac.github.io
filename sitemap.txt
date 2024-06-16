@@ -1,5 +1,10 @@
-http://example.com/2024/06/15/llm-in-excel/
 http://example.com/2024/06/15/pdf-batch-extraction/
+http://example.com/2024/06/15/llm-in-excel/
+http://example.com/about/index.html
+http://example.com/timeline/index.html
+http://example.com/messageboard/index.html
+http://example.com/categories/index.html
+http://example.com/tags/index.html
 http://example.com/2024/06/15/hello-world/
 http://example.com/
 http://example.com/tags/Excel/
