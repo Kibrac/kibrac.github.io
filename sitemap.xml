@@ -83,6 +83,13 @@
 
   
   <url>
+    <loc>http://example.com/tags/%E6%89%B9%E9%87%8F%E5%A4%84%E7%90%86/</loc>
+    <lastmod>2024-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/Excel/</loc>
     <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -96,24 +103,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>http://example.com/tags/%E6%89%B9%E9%87%8F%E5%A4%84%E7%90%86/</loc>
-    <lastmod>2024-06-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>http://example.com/categories/AIGC/</loc>
+    <loc>http://example.com/categories/Python/</loc>
     <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/Python/</loc>
+    <loc>http://example.com/categories/AIGC/</loc>
     <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
