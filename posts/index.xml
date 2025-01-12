@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>沉语</title>
-        <link>https://kibrac.github.io/</link>
-        <description>Recent content on 沉语</description>
+        <title>Posts on 沉语</title>
+        <link>https://kibrac.github.io/posts/</link>
+        <description>Recent content in Posts on 沉语</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Kibrac</copyright>
-        <lastBuildDate>Sat, 28 Sep 2024 01:36:55 +0800</lastBuildDate><atom:link href="https://kibrac.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 28 Sep 2024 01:36:55 +0800</lastBuildDate><atom:link href="https://kibrac.github.io/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Test</title>
         <link>https://kibrac.github.io/posts/test/</link>
         <pubDate>Sat, 28 Sep 2024 01:36:55 +0800</pubDate>
@@ -625,23 +625,6 @@ $$&lt;h3 id=&#34;122-梯度下降算法&#34;&gt;1.2.2 梯度下降算法
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;将该文件放入包含你想要批量转换的 PDF 文件的文件夹中，双击该 vbs 文件即可开始转换。转换后的文件全部保存在该文件夹中，如果要导出为其它格式，则把该 vbs 文件最后一行的&amp;quot;docx&amp;quot;改为你想要的格式。&lt;/p&gt;
 </description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://kibrac.github.io/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://kibrac.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>搜索</title>
-        <link>https://kibrac.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://kibrac.github.io/search/</guid>
-        <description></description>
         </item>
         
     </channel>
